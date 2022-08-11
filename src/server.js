@@ -1,6 +1,6 @@
 const express = require('express')
 const app = express()
-const port = 3500
+const port = 4000
 
 const db = require('./data/db.json')
 
@@ -25,7 +25,7 @@ const filter = (name, id) => {
     return db
 }
 
-app.post('/', (req, res) => {
+app.post('/getProducts', (req, res) => {
     console.log('Request @', new Date());
     const requestData = req.body
     const { partnerCode, name, id } = requestData
@@ -45,6 +45,8 @@ app.post('/', (req, res) => {
     }
 })
 
+app.use((req, res) => res.send('<h1>Nothing to see here...</h1>'))
+
 app.listen(port, () => {
-    console.log(`Example app listening on port ${port}`)
+    console.log(`node store app listening on port ${port}`)
 })
