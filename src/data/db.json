@@ -1,0 +1,128 @@
+{
+    "data": {
+        "featuredProducts": [
+            {
+                "id": "2330910",
+                "name": "Console Playstation 5 825GB SSD + Controle Sem Fio DualSense Branco + Base de Carregamento",
+                "points": "49873.94999999999",
+                "disabled": false,
+                "imageLink": "https://www.pontofrio-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=1926338793",
+                "type": "featured"
+            },
+            {
+                "id": "2181948",
+                "name": "Smart TV LED 32\" HD TCL 32S615 com Design Sem Bordas, Bluetooth, Google Assistant e Android TV",
+                "points": "13114.5",
+                "disabled": false,
+                "imageLink": "https://www.pontofrio-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=1924867555",
+                "type": "featured"
+            },
+            {
+                "id": "2269352",
+                "name": "Smartphone Samsung Galaxy A03 Core Azul 32GB, Câmera Traseira 8 MP, Tela Infinita de 6.5\", Octa Core, 2GB RAM, e Android",
+                "points": "7339.5",
+                "disabled": false,
+                "imageLink": "https://www.pontofrio-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=1925493636",
+                "type": "featured"
+            },
+            {
+                "id": "2081267",
+                "name": "Smart TV LED 43\" Full HD Samsung T5300 com HDR, Sistema Operacional Tizen, Wi-Fi, Espelhamento de Tela, Dolby Digital Plus, HDMI e USB - 2020",
+                "points": "20989.499999999996",
+                "disabled": false,
+                "imageLink": "https://www.pontofrio-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=1335583323",
+                "type": "featured"
+            },
+            {
+                "id": "2308138",
+                "name": "Smart TV 50\" UHD 4K Philips 50PUG7406, Android TV, HDR10+, Dolby Vision, Dolby Atmos, Design Borderless e Bluetooth",
+                "points": "26239.499999999996",
+                "disabled": false,
+                "imageLink": "https://www.pontofrio-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=1925906950",
+                "type": "featured"
+            },
+            {
+                "id": "2143724",
+                "name": "Fritadeira Elétrica Sem Óleo Air Fryer Mondial AF-30 Family Inox IV 3,5l – Preta",
+                "points": "4294.5",
+                "disabled": false,
+                "imageLink": "https://www.pontofrio-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=1924769740",
+                "type": "featured"
+            },
+            {
+                "id": "2197272",
+                "name": "iPhone 11 Apple 64GB branco, Tela de 6,1”, Câmera Dupla de 12MP, iOS",
+                "points": "38839.49999999999",
+                "disabled": false,
+                "imageLink": "https://www.pontofrio-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=1465736939",
+                "type": "featured"
+            },
+            {
+                "id": "2181876",
+                "name": "Smart TV 43\" LG Full HD 43LM6370 WiFi, Bluetooth, HDR, ThinQAI compatível com Inteligência Artificial - 2021",
+                "points": "22039.394999999997",
+                "disabled": false,
+                "imageLink": "https://www.pontofrio-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=1924753784",
+                "type": "featured"
+            }
+        ],
+        "popularProducts": [
+            {
+                "id": "2179877",
+                "name": "Revestimento Decorativo Autoadesivo Adesif Rattan D184915 200x45cm",
+                "points": "179.445",
+                "disabled": true,
+                "imageLink": "https://www.pontofrio-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=1599365951",
+                "type": "popular"
+            },
+            {
+                "id": "2282020",
+                "name": "Gin Tanqueray London Dry & Tonic Garrafa 275ml",
+                "points": "208.95",
+                "disabled": false,
+                "imageLink": "https://www.pontofrio-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=1925660760",
+                "type": "popular"
+            },
+            {
+                "id": "2272177",
+                "name": "Fralda Descartável Huggies Tripla Proteção Tamanho G – 36 Unidades",
+                "points": "460.95",
+                "disabled": false,
+                "imageLink": "https://www.pontofrio-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=1925541291",
+                "type": "popular"
+            },
+            {
+                "id": "2317082",
+                "name": "Gin Doce Intencion Strawberry 900ml",
+                "points": "345.45",
+                "disabled": true,
+                "imageLink": "https://www.pontofrio-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=1926105780",
+                "type": "popular"
+            },
+            {
+                "id": "70760",
+                "name": "Faqueiro Tramontina Buzios Inox 23799071 - 24 peças",
+                "points": "733.95",
+                "disabled": false,
+                "imageLink": "https://www.pontofrio-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=898762346",
+                "type": "popular"
+            },
+            {
+                "id": "2250420",
+                "name": "Halter Emborrachado Acte Sports - Cinza",
+                "points": "397.95",
+                "disabled": false,
+                "imageLink": "https://www.pontofrio-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=1105337780",
+                "type": "popular"
+            },
+            {
+                "id": "2282056",
+                "name": "Cerveja Heineken 6 Unidades Garrafa 330ml",
+                "points": "366.44999999999993",
+                "disabled": false,
+                "imageLink": "https://www.pontofrio-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=1703808569",
+                "type": "popular"
+            }
+        ]
+    }
+}
