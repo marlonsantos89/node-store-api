@@ -1,6 +1,6 @@
 const express = require('express')
 const app = express()
-const port = 4000
+const port = process.env.PORT || 4500
 
 const db = require('./data/db.json')
 
@@ -47,6 +47,4 @@ app.post('/getProducts', (req, res) => {
 
 app.use((req, res) => res.send('<h1>Nothing to see here...</h1>'))
 
-app.listen(port, () => {
-    console.log(`node store app listening on port ${port}`)
-})
+app.listen(port, () => console.log(`node store app listening on port ${port}`))
